@@ -99,9 +99,5 @@ Ensure the following libraries are installed:
 - Pandas
 - Matplotlib
 
-## **How to Run the Project**
-1. Clone the repository.
-2. Install the required packages.
-3. Run the Jupyter Notebook or Python script provided in the repository.
-4. Ensure the dataset `Ecommerce_Customers.csv` is placed in the correct path.
+
 
